@@ -2,7 +2,7 @@
 s="Pradeep"
 print(f"Your name is {s}")
 
-# Required table with the string formatting
+# Required table with the string formgit atting
 
 UserInput=int(input("Enter the number for the required table: "))
 
